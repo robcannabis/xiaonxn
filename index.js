@@ -56,7 +56,7 @@ iooi[Math.floor(Math.random()*iooi.length)]; // button 1 ใส่ชื่อ
     const r = new Discord.RichPresence()
       .setApplicationId('1112701450150232085')
       .setType('STREAMING')
-      .setURL('https://www.twitch.tv')
+      .setURL('https://www.youtube.com/watch?v=eg65SbqmT0s')
       .setState(`（  ${getTime()} ） • （ ${moment().format('DD/MM/YYYY')} ）`)
       .setName(`RobShop`)
       .setDetails(`一切都有再見`)
